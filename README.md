@@ -1,10 +1,10 @@
 Kay aka. Hannal
 ===============
 
-- Programmer, Software engineer, Junior Humorista.
-- Python, Golang, TypeScript, Rust, ReScript
-- Production, Engineering, Studying/Learning
-- One-coffee-a-day, One-meal-a-day
+- Programmer, Software engineer, Junior humorista.
+- Python, Golang, TypeScript, Rust, ReScript.
+- Production, Engineering, Studying/Learning.
+- One-coffee-a-day, One-meal-a-day.
 - I'm interested in,
   - Fun and humor.
   - Coaching.
@@ -20,7 +20,7 @@ Kay aka. Hannal
   - Rudeness, Impoliteness, Anti political correctness/Political incorrectness.
   - The untrustworthy.
   - Mac OS's IME for Korean.
-- I'm afraid of
+- I'm afraid of,
   - The person in charge of the book I'm writing.
   - Who read a lot of my blog posts.
   - Phone call. Making a reservation over the phone call.
