@@ -11,6 +11,7 @@ Kay aka. Hannal
   - Studying and learning, Sharing, and then growth.
   - Pair programming-based learning and growth.
   - Mob programming-based collaborative production with a non-programmer.
+  - Zettelkasten note taking.
 - I love,
   - My family.
   - Super Mario brothers, Zelda, Naughty dog's games.
